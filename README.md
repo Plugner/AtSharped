@@ -38,14 +38,14 @@ To compile, clone this repository, download **Maven** and use the Maven command:
     // Starting the code defining the Class.
     define class HelloWorld {
     
-    // Sets a string with the "Hello World!" message.
-    define string message = "Hello World!";
+     // Sets a string with the "Hello World!" message.
+     define string message = "Hello World!";
     
-    // Creating a Function thats returns a void, (main function) 
-    define void Main([Array]String:args) {
+     // Creating a Function thats returns a void, (main function) 
+     define void Main([Array]String:args) {
        // Show the variable as a message in console.
        System.printLine( message );
-    }
+     }
     }
     
 
