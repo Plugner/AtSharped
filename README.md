@@ -1,6 +1,6 @@
-# ReSharped Project
+# AtSharped Project
 
-The **ReSharped** language is a **High-Level language** based in **Java**, my first language.
+The **AtSharped** language is a **High-Level language** based in **Java**, my first language.
 
 Project Start Date: **01/12/2020**
 Current Version: **v-0.0.1 PRE-RELEASE**
@@ -9,14 +9,14 @@ Current Version: **v-0.0.1 PRE-RELEASE**
 
 We use **MIT License** in our repositories, you can read the license in **LICENSE** file.
 
-# Why use ReSharped?
+# Why use AtSharped?
 
   
-One of the reasons for you to use **ReSharped**, is the practicality in the code, which for being a language in development, has various **updates**.
+One of the reasons for you to use **AtSharped**, is the practicality in the code, which for being a language in development, has various **updates**.
 
 # Contribute
 
-If you decide to contribute to ReSharped, you can download the sources, and send Pull-Requests, feel free to create a Fork!
+If you decide to contribute to AtSharped, you can download the sources, and send Pull-Requests, feel free to create a Fork!
 
 # Compilling
 
@@ -30,7 +30,7 @@ To compile, clone this repository, download **Maven** and use the Maven command:
  
 
     // Set the file package (folders and sub-folders)
-    define package = org.resharped.example.helloworld;
+    define package = org.atsharped.example.helloworld;
     
     // Uses Native Input/Output system
     use Native.IO;
